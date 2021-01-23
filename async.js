@@ -5,4 +5,6 @@ const maniPromise= async () => {
     // no need to pars because response.json make automatic parsing
 };
 
-maniPromise().then(data=>console.log('resolved',data));
+maniPromise().then(data=>console.log('resolved',data)).catch;
+// maniPromise().then(data=>console.log('resolved',data));
+// bedoone catch ham moshkeli nist
