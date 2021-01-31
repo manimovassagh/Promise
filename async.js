@@ -8,3 +8,4 @@ const maniPromise= async () => {
 maniPromise().then(data=>console.log('resolved',data)).catch;
 // maniPromise().then(data=>console.log('resolved',data));
 // bedoone catch ham moshkeli nist
+//kheili mofid baraye badan
